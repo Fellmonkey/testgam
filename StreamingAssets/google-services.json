@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220252041758",
+    "firebase_url": "https://qvsfigthers-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "qvsfigthers",
+    "storage_bucket": "qvsfigthers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220252041758:android:225b219162906f5011f40f",
+        "android_client_info": {
+          "package_name": "com.FellMonkey.qvsGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220252041758-ossmrd0ftqqb8itn47oub1d4j4ajlpt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBewEBNWII3gkFoqFEx-mqNtCGo4IgVQRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220252041758-ossmrd0ftqqb8itn47oub1d4j4ajlpt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
